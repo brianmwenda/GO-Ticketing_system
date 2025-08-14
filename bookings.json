@@ -1,0 +1,18 @@
+{
+  "conference": {
+    "name": "Brian",
+    "total_tickets": 2,
+    "remaining_tickets": 0
+  },
+  "bookings": [
+    {
+      "id": 1,
+      "first_name": "Brian",
+      "last_name": "Mwenda",
+      "email": "ndumbabrian425@gmail.com",
+      "tickets": 2,
+      "booked_at_unix": 1755170751
+    }
+  ],
+  "next_id": 1
+}
